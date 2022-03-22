@@ -116,7 +116,7 @@ public class Knife : MonoBehaviour
             }
         }
     }
-    public void NextButton()
+    public void ReloadScene()
     {
         SceneManager.LoadScene(0);
     }
